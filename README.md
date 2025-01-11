@@ -25,6 +25,8 @@ This repository contains a PowerShell script designed to automate system repairs
    ```powershell
    # For English version
    .\ENRepairSystem.ps1
+   # For Traditional Chinese Version
+   .\TCRepairSystem.ps1
    ```
 5. Follow the on-screen instructions to complete the repair process.
 
