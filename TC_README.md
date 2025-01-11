@@ -39,5 +39,5 @@
 
 這是繁體中文版 README。您可以按下面鏈接切換為英文版：
 
-- [English README](EN_README.md)
+- [English README](README.md)
 
