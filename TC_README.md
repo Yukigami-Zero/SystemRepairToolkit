@@ -25,6 +25,8 @@
    ```powershell
    # 繁體中文版本
    .\TCRepairSystem.ps1
+   # 英文版本
+   .\ENRepairSystem.ps1
    ```
 5. 按照畫面上提示操作以完成修復過程。
 
